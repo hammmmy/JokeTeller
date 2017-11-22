@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">jokeviewer</string>
+    <string name="title_activity_joke_viewer">JokeViewerActivity</string>
+    <string name="action_settings">Settings</string>
+</resources>

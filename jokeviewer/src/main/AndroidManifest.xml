@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.jokeviewer">
+
+    <application>
+        <activity
+            android:name=".JokeViewerActivity"
+            android:label="@string/title_activity_joke_viewer"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+    </application>
+
+</manifest>
